@@ -29,5 +29,7 @@ Res1.pythontr()
 3: What is the use of __init__
 4: what is self - Reflection to the current object
 5: __str__
+6: before commit
+7:before commit
 
 
