@@ -31,5 +31,7 @@ Res1.pythontr()
 5: __str__
 6: before commit
 7:before commit
+8:after clone
+
 
 
