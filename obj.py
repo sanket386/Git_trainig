@@ -1,3 +1,5 @@
+
+
 class Person:
 	def __init__(self,name,id,address):   #this self refers to the current object
 		self.name=name
@@ -6,7 +8,7 @@ class Person:
 	
 	def printname(self):
 		print "name is =" + self.name
-
+		print("Dhwani")
 	
 class Session(Person):
 	def __init__(self,name):
