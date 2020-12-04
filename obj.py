@@ -23,7 +23,7 @@ Res1=Session("RIYAZ")
 Res1.printname()
 Res1.pythontr()
 
-
+test
 1: How to write a class
 2: How to creat an object of that class
 3: What is the use of __init__
@@ -32,6 +32,5 @@ Res1.pythontr()
 6: before commit
 7:before commit
 8:after clone
-
 
 
